@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Pernilla Jacobsen
 Welcome to my personal portfolio.
 
