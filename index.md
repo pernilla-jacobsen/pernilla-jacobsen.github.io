@@ -1,7 +1,6 @@
 ---
 title: Pernilla Jacobsen's project portfolio
 ---
-Welcome to my code portfolio.
 
 ## Python and AI
 These are some of the things done during the Python and AI course from Dec 2025 until May 2026:
@@ -13,5 +12,5 @@ These are some of the things done during the Python and AI course from Dec 2025 
 |[Titanic - Capstone Project](https://github.com/pernilla-jacobsen/Titanic) | Programming in python | This repo contains a group project using ML to predict survival on the Titanic and present the result on a Django built web site | django, pandas, scikit-learn, matplotlib |
 |[Simple Zoo Simulator](https://github.com/pernilla-jacobsen/ZooSimulator)|Python and OOP|Simulate a zoo with visitors and animals using OOP|threading|
 
-## Contact and More Information
+## Contact and more information about me on LinkedIn
 [LinkedIn](https://www.linkedin.com/in/pernilla-jacobsen-9131981)
