@@ -1,6 +1,9 @@
 ---
-layout: default
+title: Pernillas sida
 ---
+
+# Hej!
+Detta är min webbplats 🎉
 # Pernilla Jacobsen
 Welcome to my personal portfolio.
 
