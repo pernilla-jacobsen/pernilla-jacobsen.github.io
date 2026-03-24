@@ -1,4 +1,4 @@
-remote_theme: daattali/beautiful-jekyll
+theme: jekyll-theme-minimal
 title: My git-portfolio
 description: Bookmark this to keep an eye on my project updates!
 social-network-links:
