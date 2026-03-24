@@ -1,12 +1,10 @@
 ---
-title: Pernilla Jacobsen
+title: Pernilla Jacobsen's project portfolio
 ---
-
-# Pernilla Jacobsen
 Welcome to my code portfolio.
 
 ## Python and AI
-These are things done during the Python and AI course from Dec 2025 until May 2026:
+These are some of the things done during the Python and AI course from Dec 2025 until May 2026:
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
