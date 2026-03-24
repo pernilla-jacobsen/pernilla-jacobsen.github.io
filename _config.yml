@@ -1,3 +1,6 @@
 remote_theme: daattali/beautiful-jekyll
 title: My git-portfolio
 description: Bookmark this to keep an eye on my project updates!
+social-network-links:
+  github: pernilla-jacobsen
+  linkedin: your-linkedin-username
