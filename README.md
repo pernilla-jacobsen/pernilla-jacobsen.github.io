@@ -1,3 +1,6 @@
+---
+title: Pernilla Jacobsen
+---
 
 # Pernilla Jacobsen
 Welcome to my personal portfolio.
